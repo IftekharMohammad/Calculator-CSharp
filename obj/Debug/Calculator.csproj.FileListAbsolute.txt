@@ -1,0 +1,10 @@
+C:\Users\Iftekhar\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Iftekhar\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Iftekhar\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Iftekhar\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Iftekhar\source\repos\Calculator\Calculator\obj\Debug\Calculator.MainWindow.resources
+C:\Users\Iftekhar\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Iftekhar\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Iftekhar\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Iftekhar\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Iftekhar\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
